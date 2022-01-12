@@ -1,0 +1,25 @@
+ [ 
+	{
+ 		"Adi": "Keops Piramidi",
+ 		"Ülke": "Mısır",
+ 		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/blob/main/KeopsPiramidi.png",
+ 	},
+
+ 	{
+ 		"Adi": "Dr.Öğr.Üye. Hande YILMAZ",
+ 		"Ulke": "handeyilmaz@medipol.edu.tr",
+ 		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r1.vrf",
+ 	},
+
+ 	{
+ 		"Adi": "Muhammet ÇAĞATAY",
+ 		"Ulke": "muhammet@medipol.edu.tr",
+ 		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/muhammet.png",
+ 	},
+
+ 	{
+ 		"Adi": "Beyza Koyulmuş",
+ 		"Ulke": "beyza@medipol.edu.tr",
+		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/beyza.png",
+ 	}
+ ]
