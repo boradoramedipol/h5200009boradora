@@ -1,29 +1,43 @@
  [ 
 	{
- 		"AdiSoyadi": "	Prof.Dr. Mehmet İPŞİRLİ",
- 		"Eposta": "mipsirli@medipol.edu.tr",
- 		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r0.vrf",
- 		"VerdigiDers": "Fizik"
+ 		"AdiSoyadi": "Keops Piramidi",
+ 		"Eposta": "Mısır",
+ 		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/KeopsPiramidi.png",
  	},
 
  	{
- 		"AdiSoyadi": "Dr.Öğr.Üye. Hande YILMAZ",
- 		"Eposta": "handeyilmaz@medipol.edu.tr",
- 		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r1.vrf",
- 		"VerdigiDers": "Yapay Zeka"
+ 		"AdiSoyadi": "Artemis Tapınağı",
+ 		"Eposta": "Türkiye",
+ 		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/Artemis.png",
  	},
 
  	{
- 		"AdiSoyadi": "Muhammet ÇAĞATAY",
- 		"Eposta": "muhammet@medipol.edu.tr",
- 		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/muhammet.png",
- 		"VerdigiDers": "Kotlin ile İleri Android Programlama"
+ 		"AdiSoyadi": "Babilin Asma Bahçeleri",
+ 		"Eposta": "Irak",
+ 		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/Babil.png",
  	},
 
  	{
- 		"AdiSoyadi": "Beyza Koyulmuş",
- 		"Eposta": "beyza@medipol.edu.tr",
-		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/beyza.png",
- 		"VerdigiDers": "Mobil Yazılımlar"
+ 		"AdiSoyadi": "Zeus Heykeli",
+ 		"Eposta": "Yunanistan",
+		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/Zeus.png",
+ 	},
+
+ 	{
+ 		"AdiSoyadi": "Halikarnas Mozolesi",
+ 		"Eposta": "Türkiye",
+		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/Halikarnas.png",
+ 	},
+	 
+	{
+ 		"AdiSoyadi": "Rodos Heykeli",
+ 		"Eposta": "Yunanistan",
+		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/Rodos.png",
+ 	},
+	 
+	{
+ 		"AdiSoyadi": "İskenderiye Feneri",
+ 		"Eposta": "Mısır",
+		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/İskenderiye.png",
  	}
  ]
