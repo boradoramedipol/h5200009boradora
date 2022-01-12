@@ -3,27 +3,23 @@
  		"AdiSoyadi": "Keops Piramidi",
  		"Eposta": "Mısır",
  		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/KeopsPiramidi.png",
-		"VerdigiDers": "Kotlin ile İleri Android Programlama"
  	},
 
  	{
  		"AdiSoyadi": "Babilin Asma Bahçeleri",
  		"Eposta": "Irak",
  		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/Babil.png",
-		"VerdigiDers": "Kotlin ile İleri Android Programlama"
  	},
 
  	{
  		"AdiSoyadi": "Muhammet ÇAĞATAY",
  		"Eposta": "muhammet@medipol.edu.tr",
  		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/muhammet.png",
- 		"VerdigiDers": "Kotlin ile İleri Android Programlama"
  	},
 
  	{
  		"AdiSoyadi": "Beyza Koyulmuş",
  		"Eposta": "beyza@medipol.edu.tr",
 		"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/beyza.png",
- 		"VerdigiDers": "Mobil Yazılımlar"
  	}
  ]
