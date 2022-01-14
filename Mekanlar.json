@@ -1,48 +1,48 @@
  [ 
 	{
- 		"AdiSoyadi": "Keops Piramidi",
+ 		"Adi": "Keops Piramidi",
  		"Eposta": "Mısır <b> Merhaba </b>",
  		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/KeopsPiramidi.png",
 		"Aciklama": "Keops"
  	},
 
  	{
- 		"AdiSoyadi": "Artemis Tapınağı",
+ 		"Adi": "Artemis Tapınağı",
  		"Eposta": "Türkiye",
  		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/Artemis.png",
 		"Aciklama": "Artemis"
  	},
 
  	{
- 		"AdiSoyadi": "Babilin Asma Bahçeleri",
+ 		"Adi": "Babilin Asma Bahçeleri",
  		"Eposta": "Irak",
  		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/Babil.png",
 		"Aciklama": "Babil"
  	},
 
  	{
- 		"AdiSoyadi": "Zeus Heykeli",
+ 		"Adi": "Zeus Heykeli",
  		"Eposta": "Yunanistan",
 		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/Zeus.png",
 		"Aciklama": "Zeus"
  	},
 
  	{
- 		"AdiSoyadi": "Halikarnas Mozolesi",
+ 		"Adi": "Halikarnas Mozolesi",
  		"Eposta": "Türkiye",
 		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/Halikarnas.png",
 		"Aciklama": "Halikarnas"
  	},
 	 
 	{
- 		"AdiSoyadi": "Rodos Heykeli",
+ 		"Adi": "Rodos Heykeli",
  		"Eposta": "Yunanistan",
 		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/Rodos.png",
 		"Aciklama": "Rodos"
  	},
 	 
 	{
- 		"AdiSoyadi": "İskenderiye Feneri",
+ 		"Adi": "İskenderiye Feneri",
  		"Eposta": "Mısır",
 		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/İskenderiye.png",
 		"Aciklama": "İskenderiye"
