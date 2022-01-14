@@ -3,49 +3,49 @@
  		"AdiSoyadi": "Keops Piramidi",
  		"Eposta": "Mısır <b> Merhaba </b>",
  		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/KeopsPiramidi.png",
-		"VerdigiDers": "Fizik"
+		"Aciklama": "Fizik"
  	},
 
  	{
  		"AdiSoyadi": "Artemis Tapınağı",
  		"Eposta": "Türkiye",
  		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/Artemis.png",
-		"VerdigiDers": "Fizik"
+		"Aciklama": "Fizik"
  	},
 
  	{
  		"AdiSoyadi": "Babilin Asma Bahçeleri",
  		"Eposta": "Irak",
  		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/Babil.png",
-		"VerdigiDers": "Fizik"
+		"Aciklama": "Fizik"
  	},
 
  	{
  		"AdiSoyadi": "Zeus Heykeli",
  		"Eposta": "Yunanistan",
 		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/Zeus.png",
-		"VerdigiDers": "Fizik"
+		"Aciklama": "Fizik"
  	},
 
  	{
  		"AdiSoyadi": "Halikarnas Mozolesi",
  		"Eposta": "Türkiye",
 		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/Halikarnas.png",
-		"VerdigiDers": "Fizik"
+		"Aciklama": "Fizik"
  	},
 	 
 	{
  		"AdiSoyadi": "Rodos Heykeli",
  		"Eposta": "Yunanistan",
 		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/Rodos.png",
-		"VerdigiDers": "Fizik"
+		"Aciklama": "Fizik"
  	},
 	 
 	{
  		"AdiSoyadi": "İskenderiye Feneri",
  		"Eposta": "Mısır",
 		"ResimURL": "https://raw.githubusercontent.com/boradoramedipol/h5200009boradora/main/İskenderiye.png",
-		"VerdigiDers": "Fizik"
+		"Aciklama": "Fizik"
  	}
  ]
 
